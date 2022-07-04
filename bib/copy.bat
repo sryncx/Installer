@@ -1,0 +1,1 @@
+xcopy "\\SVLEFi01\Install\Daninstaller\bib\profstore.xml" "C:\Program Files (x86)\Foxit Software\Foxit Reader\ProfStore\"
